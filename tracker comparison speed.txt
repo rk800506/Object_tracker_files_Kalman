@@ -1,0 +1,42 @@
+CN - 
+eco  - 2017
+eco-hc - 2017
+
+suppose tested on 3.4 GHz cpu machine
+
+some tracker in papers with code: (EAO metric)
+, , 
+
+
+ASRCF (2019)			
+STRCF(2018, eao = 0.345)	
+ECO(2017, eao = 0.280)		2.2
+ECO-HC(2017)			16.4
+CSR-DCF(2017, 0.263)		6.5
+SRDCF (2015)			2.9
+BACF (2017)
+
+SCF		13.3
+DCFNet		27.3
+CF2		7.4
+CCT		22.5
+LCT		12.3
+Staple		26.8 -2016
+staple+CA 	14.3
+SCT4		17.7
+KCFDPT		11.8
+ACFN		10.8
+KCFDP		12.0
+OCT-KCF		24.3
+SAMP		9.6
+CFNet-conv1	13.5
+KCF + MT	14.0
+fDSST		16.8 (2014) - old
+SWCF		10.2
+Cn		104.0 - old
+CSK		187.9 - old
+MOSSE		251.2 - old
+SAMF		2.9
+
+MCCH - staple  	7-20
+staple = 	4-36-65 - based on region
